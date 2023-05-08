@@ -1,6 +1,6 @@
 print  ("hello world")  #   pri
-p=1
-q=2
-x=p*q
+p=248
+q=208
+x=p+q
 print (x)
 
